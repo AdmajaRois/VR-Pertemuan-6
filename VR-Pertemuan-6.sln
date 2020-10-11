@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{C9AC6BFF-FB2B-1E81-3B06-872578179F15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Google.XR.Cardboard", "Google.XR.Cardboard.csproj", "{8CBAC40D-3106-6732-FFAC-2C9B2901B2BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{811EC46F-55AA-FCA2-EF38-86D917F12624}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Google.XR.Cardboard.Editor", "Google.XR.Cardboard.Editor.csproj", "{A99E66D2-7A0B-0E00-3022-55A379C9352D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9AC6BFF-FB2B-1E81-3B06-872578179F15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9AC6BFF-FB2B-1E81-3B06-872578179F15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9AC6BFF-FB2B-1E81-3B06-872578179F15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9AC6BFF-FB2B-1E81-3B06-872578179F15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CBAC40D-3106-6732-FFAC-2C9B2901B2BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CBAC40D-3106-6732-FFAC-2C9B2901B2BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CBAC40D-3106-6732-FFAC-2C9B2901B2BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CBAC40D-3106-6732-FFAC-2C9B2901B2BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{811EC46F-55AA-FCA2-EF38-86D917F12624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{811EC46F-55AA-FCA2-EF38-86D917F12624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{811EC46F-55AA-FCA2-EF38-86D917F12624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{811EC46F-55AA-FCA2-EF38-86D917F12624}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A99E66D2-7A0B-0E00-3022-55A379C9352D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A99E66D2-7A0B-0E00-3022-55A379C9352D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A99E66D2-7A0B-0E00-3022-55A379C9352D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A99E66D2-7A0B-0E00-3022-55A379C9352D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
